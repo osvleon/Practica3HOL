@@ -1,2 +1,6 @@
 hector leonhardt.
+<<<<<<< Updated upstream
 ddddffgfgf
+=======
+super dddvvv
+>>>>>>> Stashed changes
